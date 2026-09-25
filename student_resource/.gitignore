@@ -1,0 +1,39 @@
+# Large Datasets
+dataset/
+**/dataset/
+*.tsv
+
+# Submission and temporary outputs
+*.zip
+*.tar.gz
+*.7z
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Jupyter & IDE
+.ipynb_checkpoints/
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+__MACOSX/
+
+# Logs
+*.log
